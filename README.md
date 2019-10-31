@@ -8,5 +8,5 @@ Eslint (modelo airbnb) e Prettier configurados.
 
 - clone o repositório
 - execute `npm install` ou `yarn install`
-- execute `yarn start`
-- divirta-se
+- execute `npm start` ou `yarn start`
+- divirta-se :)
