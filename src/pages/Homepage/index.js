@@ -1,5 +1,11 @@
+import './index.css';
+
 import React from 'react';
 
-const Homepage = () => <div>welcome :)</div>;
+const Homepage = () => (
+  <div className="container">
+    <h1>Welcome :)</h1>
+  </div>
+);
 
 export default Homepage;
